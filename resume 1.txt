@@ -1,0 +1,24 @@
+cara cek file buat folder di htdocs
+lalu di browser, buka localhost/nama folder/file 
+
+PHP bisa dijalankan di dalam html, bisa juga diluar html. 
+echo "hello world" akan menghasilkan output 'hello world'. 
+php dibuka dengan <?php dan ditutup dengan ?>.
+
+untuk membuat variabel harus diawali tanda dollar $.
+contoh string
+$nama = 'arul'
+contoh int
+$harga = 10
+contoh double
+$double = 1.1
+contoh array 
+$arr = [1,2,3,4]
+
+== artinya true
+=== artinya false
+
+var_dump digunakan untuk print dengan lengkap, jadi bisa keliatan index indexnya,
+tapi ini digunakan untuk si programer saja.
+
+switch kayak percabangan if, tapi switch hanya spesifik ke 1 variabel saja
